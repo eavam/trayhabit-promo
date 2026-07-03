@@ -13,4 +13,5 @@ Plain static HTML/CSS, no build step. Deployed to GitHub Pages via Actions on ev
 
 ## TODO on app release
 
-Replace the `href="#"` on the App Store badge in `index.html` with the real store link.
+Remove the "Coming soon to the App Store" note in `index.html` — the badge already links to
+https://apps.apple.com/us/app/trayhabit-aligner-tracker/id6760241722.
